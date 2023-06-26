@@ -1,0 +1,10 @@
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\bin\Debug\netstandard2.1\Southport.Messaging.Phone.Core.deps.json
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\bin\Debug\netstandard2.1\Southport.Messaging.Phone.Core.dll
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\bin\Debug\netstandard2.1\Southport.Messaging.Phone.Core.pdb
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\obj\Debug\netstandard2.1\Southport.Messaging.Phone.Core.csproj.AssemblyReference.cache
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\obj\Debug\netstandard2.1\Southport.Messaging.Phone.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\obj\Debug\netstandard2.1\Southport.Messaging.Phone.Core.AssemblyInfoInputs.cache
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\obj\Debug\netstandard2.1\Southport.Messaging.Phone.Core.AssemblyInfo.cs
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\obj\Debug\netstandard2.1\Southport.Messaging.Phone.Core.csproj.CoreCompileInputs.cache
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\obj\Debug\netstandard2.1\Southport.Messaging.Phone.Core.dll
+C:\Users\MichaelKetzner\source\repos\Southport.Messaging.Phone.Core\Southport.Messaging.Phone.Core\obj\Debug\netstandard2.1\Southport.Messaging.Phone.Core.pdb
